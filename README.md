@@ -1,2 +1,2 @@
 # WebDevBootCamp
-Projects made in Colt Steele Web Developer Bootcamp class
+Projects made in Colt Steele's Web Developer Bootcamp class
