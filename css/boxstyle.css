@@ -1,0 +1,20 @@
+p {
+
+/*content - width and height*/
+
+width: 50%
+;
+/*border*/
+
+border: 2px solid blue
+;
+/*padding*/
+
+padding: 10px
+;
+/*margin*/
+
+margin: 100px;
+
+/*margin auto automatically centers the text up, down, left, or right*/
+}
